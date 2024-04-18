@@ -1,0 +1,14 @@
+.nav-link-button {
+    background-color: #343a40; /* Màu xanh */
+    border: none;
+    padding: 0.5rem 1rem; /* Thêm padding để tăng kích thước của nút */
+    font: inherit;
+    cursor: pointer;
+    text-decoration: none; /* Loại bỏ gạch chân dưới */
+    color: #fff; /* Màu chữ trắng */
+    border-radius: 4px; /* Bo tròn góc */
+}   
+
+.nav-link-button:hover {
+    background-color: #0056b3; /* Màu xanh nhạt khi hover */
+}
